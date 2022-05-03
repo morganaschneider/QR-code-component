@@ -1,6 +1,5 @@
 
 * {
-
 margin: 0;
 padding:0;
 }
@@ -16,8 +15,7 @@ body {
 
 .container {
     max-width: 300px;
-    margin: 0 auto;
-    
+    margin: 0 auto;   
 }
 
 .card {
@@ -26,15 +24,13 @@ body {
     border-radius: 17px;
     text-align: center;
     border-radius: 12px;
-    margin: 0 1rem;
-   
+    margin: 0 1rem;   
 }
 
 .card img {
 
     width: 100%;
-    border-radius: 12px;
-    
+    border-radius: 12px;    
 }
 
 .text p {
@@ -46,5 +42,4 @@ body {
 
     color:hsl(218, 44%, 22%);
     padding-bottom: 14px;
-
 }
